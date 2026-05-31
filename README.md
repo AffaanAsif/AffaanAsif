@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AffaanAsif/AffaanAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  Affaan Asif
+CS student Learning Cybersec and ML/AL. I build AI tools and systems.
+Python C++ LLM APIs Cybersecurity
 
-Here are some ideas to get you started:
+🚀 Currently building Archangel — a software AI agency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Project Hail Mary — 3D web simulation with custom shaders, physics engine, and embedded Gemini AI. Built in React + Three.js.
+Geopoliticoo — Chatbot combining Claude, GPT, and Gemini for balanced geopolitical analysis.
+Anomaly Detection System — Real-time brute-force detection tool built in C++ for Linux.
+
+
+Credentials
+Google Cybersecurity · CS50x · Python for Everybody (Michigan) · Cisco Intro to Cybersecurity
+
+
