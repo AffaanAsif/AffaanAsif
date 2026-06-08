@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Affaan Asif
-CS student Learning Cybersec and ML/AL. I build AI tools and systems.
-Python C++ LLM APIs Cybersecurity
+I like to learn and train LLM and AI with a bit of cybersec...
 
 🚀 Currently building Archangel — a software AI agency.
 
