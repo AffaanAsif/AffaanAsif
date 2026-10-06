@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=650&lines=Cybersecurity+Student+%26+Offensive+Security+Learner;Focus%3A+Kali+Linux%2C+WSL%2C+Networking%2C+Ethical+Hacking;Active+on+OverTheWire+and+HackTheBox;CS+Student+at+UVAS+Lahore" alt="Typing SVG" />
 </p>
 
-First year Computer Science student at UVAS Lahore[cite: 1]. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
+First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
 
 <p align="center">
   <img src="https://media.giphy.com/media/u1132kS286vM4/giphy.gif" width="100%" height="280" alt="Cyber Anime Terminal Visual" />
@@ -42,36 +42,36 @@ First year Computer Science student at UVAS Lahore[cite: 1]. Focused on Kali Lin
 
 ### Projects
 
-* Host Based Anomaly Detection System: C++ real time system monitoring tool built on Linux[cite: 1]. Detects brute force attack attempts, flags unauthorized login activity, and generates automated alerts[cite: 1].
-* Archangel: Full stack agency site built using React, TypeScript, Express, and Tailwind CSS[cite: 1].
-* Project Hail Mary: 3D interactive graphics simulation built using pure math geometry, custom GLSL shaders, and spring physics in React and Three.js[cite: 1].
-* Geopoliticoo: Multi model analysis chatbot integrating Claude, GPT, and Gemini APIs[cite: 1].
+* Host Based Anomaly Detection System: C++ real time system monitoring tool built on Linux. Detects brute force attack attempts, flags unauthorized login activity, and generates automated alerts.
+* Archangel: Full stack agency site built using React, TypeScript, Express, and Tailwind CSS.
+* Project Hail Mary: 3D interactive graphics simulation built using pure math geometry, custom GLSL shaders, and spring physics in React and Three.js.
+* Geopoliticoo: Multi model analysis chatbot integrating Claude, GPT, and Gemini APIs.
 
 ***
 
 ### Certifications and Completed Courses
 
-* Google Cybersecurity Certificate[cite: 1]
-* Introduction to Cyber Security[cite: 1]
-* CCNA by NetworkChuck[cite: 1]
-* Linux For Hackers by NetworkChuck[cite: 1]
-* Python for Hackers by NetworkChuck[cite: 1]
-* CS50x Introduction to Computer Science Harvard[cite: 1]
-* Python for Everybody[cite: 1]
-* Google AI Essentials[cite: 1]
-* AI Capabilities and Limitations by Anthropic[cite: 1]
-* Claude 101 by Anthropic[cite: 1]
+* Google Cybersecurity Certificate
+* Introduction to Cyber Security
+* CCNA by NetworkChuck
+* Linux For Hackers by NetworkChuck
+* Python for Hackers by NetworkChuck
+* CS50x Introduction to Computer Science Harvard
+* Python for Everybody
+* Google AI Essentials
+* AI Capabilities and Limitations by Anthropic
+* Claude 101 by Anthropic
 
 ***
 
 ### Education
 
-* B.S. Computer Science: University of Veterinary and Animal Sciences (UVAS), Lahore, 2025 to 2029[cite: 1]
-* GPA: 3.59 out of 4.00[cite: 1]
-* Honors: Honhaar Scholarship Recipient Full Tuition Government of Punjab[cite: 1]
-* Intermediate Computer Science: Government College University (GCU), Lahore, 2023 to 2025[cite: 1]
-* Marks: 86 percent, WAPDA LESCO Funds Recipient[cite: 1]
-* Language Proficiency: English IELTS 7.5 C1 Level[cite: 1], Urdu Native Speaker[cite: 1]
+* B.S. Computer Science: University of Veterinary and Animal Sciences (UVAS), Lahore, 2025 to 2029
+* GPA: 3.59 out of 4.00
+* Honors: Honhaar Scholarship Recipient Full Tuition Government of Punjab
+* Intermediate Computer Science: Government College University (GCU), Lahore, 2023 to 2025
+* Marks: 86 percent, WAPDA LESCO Funds Recipient
+* Language Proficiency: English IELTS 7.5 C1 Level, Urdu Native Speaker
 
 ***
 
