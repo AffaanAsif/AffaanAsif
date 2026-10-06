@@ -1,7 +1,7 @@
 # Muhammad Affaan Asif
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=650&lines=Cybersecurity+Student+%26+Offensive+Security+Learner;Focus%3A+Kali+Linux%2C+WSL%2C+Networking%2C+Ethical+Hacking;Active+on+OverTheWire+and+HackTheBox;CS+Student+at+UVAS+Lahore" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?](https://www.google.com/imgres?q=anime%20gifs%20bleach&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F87%2F4f%2Fdc%2F874fdcbb5f0b36078e1f3af4b716d3d9.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F697565429803353923%2F&docid=Uce4b6CvUn0aeM&tbnid=RoYO2nvGl8ylVM&vet=12ahUKEwi06ryJ7KWXAxX_SKQEHXuKC6QQnPAOegQILRAA..i&w=500&h=281&hcb=2&ved=2ahUKEwi06ryJ7KWXAxX_SKQEHXuKC6QQnPAOegQILRAA)font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=650&lines=Cybersecurity+Student+%26+Offensive+Security+Learner;Focus%3A+Kali+Linux%2C+WSL%2C+Networking%2C+Ethical+Hacking;Active+on+OverTheWire+and+HackTheBox;CS+Student+at+UVAS+Lahore" alt="Typing SVG" />
 </p>
 
 First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
