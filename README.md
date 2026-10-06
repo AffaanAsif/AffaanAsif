@@ -1,7 +1,7 @@
 # Muhammad Affaan Asif
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=650&lines=Cybersecurity+Student+%26+Offensive+Security+Learner;Focus%3A+Kali+Linux%2C+WSL%2C+Networking%2C+Ethical+Hacking;Active+on+OverTheWire+and+HackTheBox;CS+Student+at+UVAS+Lahore" alt="Typing SVG" />
 </p>
 
 First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
