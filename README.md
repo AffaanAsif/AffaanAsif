@@ -1,14 +1,14 @@
-# Hi, I'm Muhammad Affaan Asif 
+# Muhammad Affaan Asif
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=550&lines=CS+Student+%40+UVAS;AI+%26+3D+Web+Developer;Cybersecurity+Advocate;Building+Archangel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=20&duration=3000&pause=1000&color=2EA043&width=550&lines=Cybersecurity+Student+%26+Offensive+Security+Learner;Focus%3A+Linux%2C+Networking%2C+Ethical+Hacking;Active+on+OverTheWire+%26+HackTheBox;CS+Student+%40+UVAS" alt="Typing SVG" />
 </p>
 
-First-year Computer Science student and researcher leveraging AI, 3D web technologies, and systems programming to bridge complex engineering with human-centered design.
+First-year Computer Science student at UVAS Lahore[cite: 1]. Focused on Linux security, offensive systems analysis, network protocols, and host-based monitoring.
 
 ---
 
-###  Tech Stack & Interactive Status
+### Security Status & Tooling
 
 <p align="left">
   <a href="https://overthewire.org/wargames/bandit/">
@@ -17,112 +17,84 @@ First-year Computer Science student and researcher leveraging AI, 3D web technol
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Kali_Linux-555C6E?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=affaanasif&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://media.giphy.com/media/Q4A2O581akOFiLpC5Y/giphy.gif" width="100%" height="220" alt="Cyber Visual" />
 </p>
 
 ---
 
-### Featured Projects
+### Core Focus Areas
 
-<details open>
-<summary><b> Archangel — AI-Engineered Full-Stack Agency Website</b></summary>
-<br />
-
-> **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Three.js` · `Motion` · `Express` · `Gemini API`[cite: 1]
-
-- Engineered an end-to-end agency website featuring a live prompt benchmark terminal, particle headlines, and 3D wireframe visuals[cite: 1].
-- Integrated an automated Gemini AI backend workflow with full TypeScript coverage and modular Express API[cite: 1].
-</details>
-
-<br />
-
-<details open>
-<summary><b> Project Hail Mary — Immersive 3D Web Simulation</b></summary>
-<br />
-
-> **Stack:** `React` · `Three.js` · `GSAP` · `Gemini 3.1 Pro` · `GLSL`[cite: 1]
-
-- Built entirely from mathematical primitives and custom geometry without pre-made 3D models[cite: 1].
-- Features spring-based physics, real-time planar reflections, GLSL shaders, and an embedded Gemini 3.1 Pro assistant[cite: 1].
-</details>
-
-<br />
-
-<details>
-<summary><b> Geopoliticoo — Multi-Model AI Geopolitics Chatbot</b></summary>
-<br />
-
-> **Stack:** `Claude API` · `GPT API` · `Gemini API` · `Prompt Engineering`[cite: 1]
-
-- Blends outputs across three primary LLM architectures to deliver structured, non-biased geopolitical intelligence[cite: 1].
-</details>
-
-<br />
-
-<details>
-<summary><b> Host-Based Anomaly Detection System — System Security Tool</b></summary>
-<br />
-
-> **Stack:** `C++` · `Linux` · `System Monitoring`[cite: 1]
-
-- Low-level system daemon tracking login patterns and brute-force indicators with real-time threshold alerts[cite: 1].
-</details>
+* **Offensive Security & Pentesting:** Learning hands-on exploit techniques, Red Team methodologies, CTFs, and laboratory challenges across OverTheWire and Hack The Box.
+* **Linux Systems Administration:** Heavy daily use of Kali Linux and WSL environments for system monitoring, log analysis, bash scripting, and privilege escalation labs.
+* **Networking & Protocols:** In-depth study of routing, packet analysis, host detection, firewall rules, and structural network defense.
 
 ---
 
-###  Education & Honors
+### Featured Security & Software Projects
 
-* **B.S. Computer Science** — *University of Veterinary and Animal Sciences (UVAS), Lahore* (2025 – 2029)[cite: 1]
-  * **GPA:** 3.59 / 4.00[cite: 1]
-  * **Honors:** Honhaar Scholarship Recipient (Full Tuition, Govt. of Punjab)[cite: 1]
-* **Intermediate (Computer Science)** — *Government College University (GCU), Lahore* (2023 – 2025)[cite: 1]
-  * **Grade:** 86% | WAPDA LESCO Scholarship Recipient[cite: 1]
-* **Languages:** English (IELTS 7.5 - C1 Professional)[cite: 1] | Urdu (Native Speaker)[cite: 1]
+* **Host-Based Anomaly Detection System**
+  * Real-time Linux system monitoring daemon written in C++[cite: 1].
+  * Detects brute-force attack signatures, flags suspicious SSH login patterns, and triggers automated threshold alerts[cite: 1].
+
+* **Archangel**
+  * Full-stack agency platform engineered using React, TypeScript, Express, and Tailwind CSS[cite: 1].
+
+* **Project Hail Mary**
+  * Interactive 3D graphics simulation engineered with pure geometry, custom GLSL shaders, and spring physics in React/Three.js[cite: 1].
 
 ---
 
-### Certifications & Courses
+### Certifications & Specialized Training
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-####  Cybersecurity & Systems
-* **Google Cybersecurity Certificate**[cite: 1]
-* **Introduction to Cyber Security**[cite: 1]
-* **CCNA** *(NetworkChuck)*[cite: 1]
-* **Linux For Hackers** *(NetworkChuck)*[cite: 1]
-* **Python for Hackers** *(NetworkChuck)*[cite: 1]
+#### Security & Systems
+* Google Cybersecurity Certificate[cite: 1]
+* Introduction to Cyber Security[cite: 1]
+* CCNA (NetworkChuck)[cite: 1]
+* Linux For Hackers (NetworkChuck)[cite: 1]
+* Python for Hackers (NetworkChuck)[cite: 1]
     </td>
     <td width="50%" valign="top">
 
-####  Computer Science & AI
-* **CS50x: Intro to Computer Science** *(Harvard)*[cite: 1]
-* **Google AI Essentials**[cite: 1]
-* **AI Capabilities and Limitations** *(Anthropic)*[cite: 1]
-* **Claude 101** *(Anthropic)*[cite: 1]
-* **Python for Everybody**[cite: 1]
+#### Computer Science Foundations
+* CS50x: Introduction to Computer Science (Harvard)[cite: 1]
+* Python for Everybody[cite: 1]
+* Google AI Essentials[cite: 1]
+* AI Capabilities and Limitations (Anthropic)[cite: 1]
+* Claude 101 (Anthropic)[cite: 1]
     </td>
   </tr>
 </table>
 
 ---
 
-### GitHub Stats & Metrics
+### Education & Academic Honors
+
+* **B.S. Computer Science** — University of Veterinary and Animal Sciences (UVAS), Lahore (2025 – 2029)[cite: 1]
+  * **GPA:** 3.59 / 4.00[cite: 1]
+  * **Honors:** Honhaar Scholarship Recipient (Full Tuition, Government of Punjab)[cite: 1]
+* **Intermediate (Computer Science)** — Government College University (GCU), Lahore (2023 – 2025)[cite: 1]
+  * **Grade:** 86% | WAPDA LESCO Funds Recipient[cite: 1]
+* **Language Proficiency:** English (IELTS 7.5 - C1)[cite: 1] | Urdu (Native)[cite: 1]
+
+---
+
+### GitHub Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=affaanasif&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -132,7 +104,7 @@ First-year Computer Science student and researcher leveraging AI, 3D web technol
 
 ---
 
-###  Connect
+### Contact
 
 <p align="left">
   <a href="mailto:affaan802@gmail.com">
