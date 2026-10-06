@@ -7,7 +7,7 @@
 First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u1132kS286vM4/giphy.gif" width="100%" height="280" alt="Cyber Anime Terminal Visual" />
+  <img src="https://www.google.com/imgres?q=anime%20gifs%20bleach&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F87%2F4f%2Fdc%2F874fdcbb5f0b36078e1f3af4b716d3d9.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F697565429803353923%2F&docid=Uce4b6CvUn0aeM&tbnid=RoYO2nvGl8ylVM&vet=12ahUKEwi06ryJ7KWXAxX_SKQEHXuKC6QQnPAOegQILRAA..i&w=500&h=281&hcb=2&ved=2ahUKEwi06ryJ7KWXAxX_SKQEHXuKC6QQnPAOegQILRAA" />
 </p>
 
 ***
