@@ -5,7 +5,7 @@ I like to learn and train LLM and AI with a bit of cybersec...
 
 🚀 Currently building Archangel — a software AI agency.
 
-[![OverTheWire Bandit](https://img.shields.io/badge/OverTheWire_Bandit-34%2F34_Levels_Complete-2ea043?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://overthewire.org/wargames/bandit/)
+[![[![Bandit 100%](https://img.shields.io/badge/Bandit_Wargame-100%25-2ea043?style=flat-square&logo=linux&logoColor=white)](https://overthewire.org/wargames/bandit/)OverTheWire Bandit](https://img.shields.io/badge/OverTheWire_Bandit-34%2F34_Levels_Complete-2ea043?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://overthewire.org/wargames/bandit/)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-r165-000000?style=flat-square&logo=threedotjs)
 ![GSAP](https://img.shields.io/badge/GSAP-3-88CE02?style=flat-square&logo=greensock)
