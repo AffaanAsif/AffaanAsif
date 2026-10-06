@@ -7,7 +7,9 @@
 First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
 
 <p align="center">
-  <img src="[https://www.pinterest.com/pin/697565429803353923/](https://gifs.alphacoders.com/gifs/view/221807)" />
+  <a href="https://gifs.alphacoders.com/gifs/view/221807">
+    <img src="https://gifdb.com/images/high/bleach-ichigo-kurosaki-dark-aura-221807.gif" width="100%" height="280" alt="Bleach Dynamic Shadows Anime GIF" />
+  </a>
 </p>
 
 ***
