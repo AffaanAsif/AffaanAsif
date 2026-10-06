@@ -7,7 +7,7 @@
 First year Computer Science student at UVAS Lahore. Focused on Kali Linux, WSL environments, network security protocols, system administration, and offensive security labs.
 
 <p align="center">
-  <img src="https://www.pinterest.com/pin/697565429803353923/" />
+  <img src="[https://www.pinterest.com/pin/697565429803353923/](https://gifs.alphacoders.com/gifs/view/221807)" />
 </p>
 
 ***
